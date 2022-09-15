@@ -5,6 +5,8 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamncn&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dreamncn)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🔭 Working
 
 - Application Security Research
