@@ -69,7 +69,7 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=dreamncn&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="github-readme-activity-graph.cyclic.app/graph?username=dreamncn&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
